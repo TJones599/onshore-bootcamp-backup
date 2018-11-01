@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\bin\Debug\AdvCalc.exe.config
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\bin\Debug\AdvCalc.exe
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\bin\Debug\AdvCalc.pdb
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\obj\Debug\AdvCalc.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\obj\Debug\AdvCalc.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\obj\Debug\AdvCalc.exe
+C:\Users\Tyler Jones\source\repos\AdvCalc\AdvCalc\obj\Debug\AdvCalc.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\bin\Debug\SayMyNAME.exe.config
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\bin\Debug\SayMyNAME.exe
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\bin\Debug\SayMyNAME.pdb
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\obj\Debug\SayMyNAME.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\obj\Debug\SayMyNAME.exe
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\obj\Debug\SayMyNAME.pdb
+C:\Users\Tyler Jones\source\repos\SayMyNAME\SayMyNAME\obj\Debug\SayMyNAME.csprojAssemblyReference.cache

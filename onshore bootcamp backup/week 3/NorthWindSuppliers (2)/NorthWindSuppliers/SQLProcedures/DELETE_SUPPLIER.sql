@@ -1,0 +1,12 @@
+CREATE PROCEDURE DELETE_SUPPLIER
+(
+	@supplierID INT
+)
+AS
+BEGIN
+
+	DELETE
+	FROM Suppliers
+	WHERE SupplierID = @supplierID
+
+END

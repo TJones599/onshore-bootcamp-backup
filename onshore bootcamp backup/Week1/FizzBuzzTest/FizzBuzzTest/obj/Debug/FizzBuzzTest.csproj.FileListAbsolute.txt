@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.exe.config
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.exe
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.exe
+C:\Users\Tyler Jones\source\repos\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb

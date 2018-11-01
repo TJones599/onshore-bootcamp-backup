@@ -1,0 +1,53 @@
+﻿@using FormsApp.Models
+@model Car
+
+@{
+    ViewBag.Title = "CreateCar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Create Car</h2>
+
+@using (Html.BeginForm("CreateCar", "Car", FormMethod.Post))
+{
+    @Html.LabelFor(model => Model.Make)
+<div class="form-group">
+    @Html.ValidationMessageFor(model => Model.Make, "", new { @class = "text-danger" })
+    <br />
+    @Html.TextBoxFor(model => Model.Make, new { @class = "form-control" })
+</div>
+
+    @Html.LabelFor(model => Model.Model)
+    <div class="form-group">
+        @Html.ValidationMessageFor(model => Model.Model, "", new { @class = "text-danger" })
+        <br />
+        @Html.TextBoxFor(model => Model.Model, new { @class = "form-control" })
+    </div>
+
+    @Html.LabelFor(model => Model.Year)
+    <div class="form-group">
+        @Html.ValidationMessageFor(model => Model.Year, "", new { @class = "text-danger" })
+        <br />
+        @Html.TextBoxFor(model => Model.Year, new { @class = "form-control" })
+    </div>
+
+    @Html.LabelFor(model => Model.topSpeed)
+    <div class="form-group">
+        @Html.ValidationMessageFor(model => Model.topSpeed, "", new { @class = "text-danger" })
+        <br />
+        @Html.TextBoxFor(model => Model.topSpeed, new { @class = "form-control" })
+    </div>
+
+    @Html.LabelFor(model => Model.Color)
+    <div class="form-group">
+        @Html.ValidationMessageFor(model => Model.Color, "", new { @class = "text-danger" })
+        <br />
+        @Html.TextBoxFor(model => Model.Color, new { @class = "form-control" })
+    </div>
+
+    <br />
+    <input type="submit" value="Create" class="btn btn-primary"/>
+}
+
+
+

@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\bin\Debug\CalculatorAppv2.exe.config
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\bin\Debug\CalculatorAppv2.exe
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\bin\Debug\CalculatorAppv2.pdb
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\obj\Debug\CalculatorAppv2.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\obj\Debug\CalculatorAppv2.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\obj\Debug\CalculatorAppv2.exe
+C:\Users\Tyler Jones\source\repos\CalculatorAppv2\CalculatorAppv2\obj\Debug\CalculatorAppv2.pdb

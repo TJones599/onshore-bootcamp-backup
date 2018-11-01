@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\bin\Debug\CreatingFilePathsAndTxtFile.exe.config
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\bin\Debug\CreatingFilePathsAndTxtFile.exe
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\bin\Debug\CreatingFilePathsAndTxtFile.pdb
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\obj\Debug\CreatingFilePathsAndTxtFile.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\obj\Debug\CreatingFilePathsAndTxtFile.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\obj\Debug\CreatingFilePathsAndTxtFile.exe
+C:\Users\Tyler Jones\source\repos\CreatingFilePathsAndTxtFile\CreatingFilePathsAndTxtFile\obj\Debug\CreatingFilePathsAndTxtFile.pdb

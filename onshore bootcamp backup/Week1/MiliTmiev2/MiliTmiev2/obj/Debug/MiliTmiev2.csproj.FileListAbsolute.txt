@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\bin\Debug\MiliTmiev2.exe.config
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\bin\Debug\MiliTmiev2.exe
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\bin\Debug\MiliTmiev2.pdb
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\obj\Debug\MiliTmiev2.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\obj\Debug\MiliTmiev2.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\obj\Debug\MiliTmiev2.exe
+C:\Users\Tyler Jones\source\repos\MiliTmiev2\MiliTmiev2\obj\Debug\MiliTmiev2.pdb

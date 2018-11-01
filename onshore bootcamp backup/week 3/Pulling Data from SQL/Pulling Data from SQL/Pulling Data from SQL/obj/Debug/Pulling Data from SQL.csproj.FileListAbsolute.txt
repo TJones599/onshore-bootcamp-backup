@@ -1,0 +1,14 @@
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\bin\Debug\Pulling Data from SQL.exe.config
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\bin\Debug\Pulling Data from SQL.exe
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\bin\Debug\Pulling Data from SQL.pdb
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.exe
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.pdb
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\bin\Debug\Pulling Data from SQL.exe.config
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\bin\Debug\Pulling Data from SQL.exe
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\bin\Debug\Pulling Data from SQL.pdb
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.exe
+C:\Users\Tyler Jones\source\repos\Pulling Data from SQL\Pulling Data from SQL\Pulling Data from SQL\obj\Debug\Pulling Data from SQL.pdb

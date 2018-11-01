@@ -1,0 +1,14 @@
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\bin\Debug\Gocery_List.exe.config
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\bin\Debug\Gocery_List.exe
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\bin\Debug\Gocery_List.pdb
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\obj\Debug\Gocery_List.csprojAssemblyReference.cache
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\obj\Debug\Gocery_List.csproj.CoreCompileInputs.cache
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\obj\Debug\Gocery_List.exe
+C:\Users\B. Lea\source\repos\Gocery_List\Gocery_List\obj\Debug\Gocery_List.pdb
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\bin\Debug\Gocery_List.exe.config
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\bin\Debug\Gocery_List.exe
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\bin\Debug\Gocery_List.pdb
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\obj\Debug\Gocery_List.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\obj\Debug\Gocery_List.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\obj\Debug\Gocery_List.exe
+C:\Users\Tyler Jones\source\repos\Gocery_List\Gocery_List\Gocery_List\obj\Debug\Gocery_List.pdb

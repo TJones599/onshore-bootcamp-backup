@@ -1,0 +1,7 @@
+C:\Users\Tyler Jones\source\repos\list testing\list testing\bin\Debug\list testing.exe.config
+C:\Users\Tyler Jones\source\repos\list testing\list testing\bin\Debug\list testing.exe
+C:\Users\Tyler Jones\source\repos\list testing\list testing\bin\Debug\list testing.pdb
+C:\Users\Tyler Jones\source\repos\list testing\list testing\obj\Debug\list testing.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\list testing\list testing\obj\Debug\list testing.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\list testing\list testing\obj\Debug\list testing.exe
+C:\Users\Tyler Jones\source\repos\list testing\list testing\obj\Debug\list testing.pdb

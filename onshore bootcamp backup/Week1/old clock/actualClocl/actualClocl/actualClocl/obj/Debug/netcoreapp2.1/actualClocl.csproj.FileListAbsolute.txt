@@ -1,0 +1,22 @@
+C:\Users\Anga\source\repos\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.deps.json
+C:\Users\Anga\source\repos\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.runtimeconfig.json
+C:\Users\Anga\source\repos\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.runtimeconfig.dev.json
+C:\Users\Anga\source\repos\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.dll
+C:\Users\Anga\source\repos\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.pdb
+C:\Users\Anga\source\repos\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.csprojAssemblyReference.cache
+C:\Users\Anga\source\repos\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.csproj.CoreCompileInputs.cache
+C:\Users\Anga\source\repos\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.AssemblyInfoInputs.cache
+C:\Users\Anga\source\repos\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.AssemblyInfo.cs
+C:\Users\Anga\source\repos\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.dll
+C:\Users\Anga\source\repos\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.pdb
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.deps.json
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.runtimeconfig.json
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.runtimeconfig.dev.json
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.dll
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\bin\Debug\netcoreapp2.1\actualClocl.pdb
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.AssemblyInfoInputs.cache
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.AssemblyInfo.cs
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.dll
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.pdb
+C:\Users\Tyler Jones\source\repos\actualClocl\actualClocl\actualClocl\obj\Debug\netcoreapp2.1\actualClocl.csprojAssemblyReference.cache
